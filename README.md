@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" width="100%">
-  <a href="https://github.com/desmos-labs/desmjs/blob/main/LICENSE"/><img height="20" src="https://img.shields.io/github/license/desmos-labs/desmjs.svg" alt="License" /></a>
+  <a href="https://github.com/desmos-labs/desmjs/blob/main/LICENSE"><img height="20" src="https://img.shields.io/github/license/desmos-labs/desmjs.svg" alt="License" /></a>
 </p>
 
 DesmJS is a library containing a set of various packages that make it easy to develop an application on top of the
